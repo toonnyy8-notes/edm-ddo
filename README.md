@@ -1,1 +1,1 @@
-# [Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps](https://toonnyy8-notes.github.io/shifted-time-step-sampling/)
+# [Idempotent-Generative-Network](https://toonnyy8-notes.github.io/shifted-time-step-sampling/)
