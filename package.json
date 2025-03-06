@@ -1,5 +1,5 @@
 {
-  "name": "shifted-time-step-sampling",
+  "name": "idempotent-generative-network",
   "type": "module",
   "private": true,
   "scripts": {

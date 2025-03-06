@@ -22,24 +22,26 @@ transition: slide-left
 mdc: true
 ---
 
-<h1><a href="https://openreview.net/forum?id=ZSD3MloKe6">Alleviating Exposure Bias in Diffusion Models<br/>through Sampling with Shifted Time Steps</a></h1>
+<h1><a href="https://openreview.net/forum?id=XIaS66XkNA"><span class="text-14">I</span>DEMPOTET <span class="text-14">G</span>ENERATIVE <span class="text-14">N</span>ETWORK</a></h1>
 
 <br/>
 
-Mingxiao Li$^{*1}$,
-Tingyu Qu$^{*1}$,
-Ruicong Yao$^2$,
-Wei Sun$^1$ and Marie-Francine Moens$^1$
+Assaf Shocher$^{1,2}$,
+Amil Dravid$^1$
+Yossi Gandelsman$^1$  
+Inbar Mosseri$^2$
+Michael Rubinstein$^2$
+Alexei A. Efros$^1$
 
-<p class="text-justify pl-70">
-<katex-elem expr='^1' /> Department of Computer Science, KU Leuven<br/>
-<katex-elem expr='^2' /> Department of Mathematics, KU Leuven
+<p class="text-justify pl-90">
+<katex-elem expr='^1' /> UC Berkeley<br/>
+<katex-elem expr='^2' /> Google Research
 </p>
 
 ## ICLR 2024
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/toonnyy8-notes/shifted-time-step-sampling" target="_blank" alt="GitHub" title="Open in GitHub"
+  <a href="https://github.com/toonnyy8-notes/Idempotent-Generative-Network" target="_blank" alt="GitHub" title="Open in GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
