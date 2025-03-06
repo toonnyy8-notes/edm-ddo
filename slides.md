@@ -20,6 +20,7 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+download: true
 ---
 
 <h1><a href="https://openreview.net/forum?id=XIaS66XkNA"><span class="text-14">I</span>DEMPOTET <span class="text-14">G</span>ENERATIVE <span class="text-14">N</span>ETWORK</a></h1>
