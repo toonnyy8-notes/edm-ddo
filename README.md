@@ -1,1 +1,1 @@
-# [Idempotent-Generative-Network](https://toonnyy8-notes.github.io/Idempotent-Generative-Network/)
+# [Direct Discriminative Optimization](https://toonnyy8-notes.github.io/edm-ddo)
